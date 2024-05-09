@@ -3,12 +3,11 @@ categories: Elog-Notion
 tags:
   - notion
   - elog
-description: 使用Notion + Hexo部署博客时，在 Notion 上写作的注意事项，以及如何配置Elog使其更好的结合Hexo
-permalink: ''
-title: Notion-Hexo 的 Elog 配置详解
 cover: /images/de91d8193c1b7d27e88f220af42a71b8.jpg
-date: '2024-05-09 14:09:00'
-updated: '2024-05-09 20:21:00'
+description: 使用Notion + Hexo部署博客时，在 Notion 上写作的注意事项，以及如何配置Elog使其更好的结合Hexo
+title: Notion-Hexo 的 Elog 配置详解
+date: '2024-05-09 22:09:00'
+updated: '2024-05-09 22:09:00'
 ---
 
 # 前言

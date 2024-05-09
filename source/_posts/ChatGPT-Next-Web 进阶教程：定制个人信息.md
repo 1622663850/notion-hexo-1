@@ -3,12 +3,11 @@ categories: Elog-Notion
 tags:
   - notion
   - blog
-description: ''
-permalink: ''
-title: ChatGPT-Next-Web 进阶教程：定制个人信息
 cover: /images/b0742249e79b219e3a52b068018ddcb8.jpg
-date: '2024-05-09 17:02:00'
-updated: '2024-05-09 20:11:00'
+description: ''
+title: ChatGPT-Next-Web 进阶教程：定制个人信息
+date: '2024-05-09 22:09:00'
+updated: '2024-05-09 22:09:00'
 ---
 
 > 💡 在本篇文章中，我将教大家如何个性化定制ChatGPT-Next-Web，通过修改界面样式和定制网站信息。我们可以轻松更改背景颜色、调整主题样式，添加自定义图标（logo）以使界面更个性化；在新建聊天界面中，我们可以自定义问候语、导出模板以及各种指令语言；同时，通过修改网站标题和SEO信息，我们能够打造一个与品牌或使用风格一致的独特界面。
