@@ -10,6 +10,8 @@ on:
   repository_dispatch:
     types:
       - deploy
+  schedule:
+    - cron: '0 4 * * *'  # 每 15 分钟执行一次
   workflow_dispatch: # Put here!!
 
 jobs:
