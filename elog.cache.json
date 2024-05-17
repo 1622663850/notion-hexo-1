@@ -137,9 +137,68 @@
       "realName": "【Python】Python读取文件夹下的所有文件_python 读取文件夹里所有文件-CSDN博客",
       "relativePath": "/【Python】Python读取文件夹下的所有文件_python 读取文件夹里所有文件-CSDN博客.md",
       "docPath": "./source/_posts"
+    },
+    {
+      "id": "2aebea47-99ef-43db-94b4-301b556841b6",
+      "doc_id": "2aebea47-99ef-43db-94b4-301b556841b6",
+      "updated": 1715906340000,
+      "properties": {
+        "categories": "开发",
+        "updated": "2024-05-17 08:39:00",
+        "tags": [
+          "C#"
+        ],
+        "date": "2024-05-17 08:00:00",
+        "cover": "/images/869d7d547aa4d121ce58db144bcfec31.png",
+        "description": "",
+        "title": "c#中如何获取本机MAC地址、IP地址、硬盘ID、CPU序列号等系统信息"
+      },
+      "realName": "c#中如何获取本机MAC地址、IP地址、硬盘ID、CPU序列号等系统信息",
+      "relativePath": "/c#中如何获取本机MAC地址、IP地址、硬盘ID、CPU序列号等系统信息.md",
+      "docPath": "./source/_posts"
     }
   ],
   "catalog": [
+    {
+      "object": "page",
+      "id": "2aebea47-99ef-43db-94b4-301b556841b6",
+      "created_time": "2024-05-17T00:38:00.000Z",
+      "last_edited_time": "2024-05-17T00:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2463cab2-5469-4816-b1d3-ebb225cfa063"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2463cab2-5469-4816-b1d3-ebb225cfa063"
+      },
+      "cover": {
+        "type": "external",
+        "external": {
+          "url": "https://www.notion.so/images/page-cover/gradients_4.png"
+        }
+      },
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "beafb826-deaa-4b6c-b683-be8d872cea09"
+      },
+      "archived": false,
+      "in_trash": false,
+      "properties": {
+        "categories": "开发",
+        "updated": "2024-05-17 08:39:00",
+        "tags": [
+          "C#"
+        ],
+        "date": "2024-05-17 08:00:00",
+        "cover": "/images/869d7d547aa4d121ce58db144bcfec31.png",
+        "description": "",
+        "title": "c#中如何获取本机MAC地址、IP地址、硬盘ID、CPU序列号等系统信息"
+      },
+      "url": "https://www.notion.so/c-MAC-IP-ID-CPU-2aebea4799ef43db94b4301b556841b6",
+      "public_url": "https://chipped-shovel-069.notion.site/c-MAC-IP-ID-CPU-2aebea4799ef43db94b4301b556841b6"
+    },
     {
       "object": "page",
       "id": "c604c919-de83-4ae8-813f-8024f45d4f54",
@@ -169,12 +228,17 @@
       "properties": {
         "categories": "开发",
         "updated": "2024-05-15 13:38:00",
+        "urlname": "c604c919-de83-4ae8-813f-8024f45d4f54",
+        "sort": "",
         "tags": [
           "python"
         ],
         "date": "2024-05-15 08:00:00",
-        "cover": "/images/676e58f53e170caf75c77817df0c367d.jpg",
+        "status": "已发布",
+        "cover": "https://www.notion.so/images/page-cover/met_william_morris_1877_willow.jpg",
+        "URL": "",
         "description": "",
+        "catalog": "",
         "title": "【Python】Python读取文件夹下的所有文件_python 读取文件夹里所有文件-CSDN博客"
       },
       "url": "https://www.notion.so/Python-Python-_python-CSDN-c604c919de834ae8813f8024f45d4f54",
@@ -241,8 +305,8 @@
       "cover": {
         "type": "file",
         "file": {
-          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ef84be6d-c165-4611-8050-96907703167a/dc3ab2f7-66cb-4a5c-91bd-0c775b8e2aa5/%E5%B9%BD%E7%81%B5%E5%85%AC%E4%B8%BB.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240516%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240516T041455Z&X-Amz-Expires=3600&X-Amz-Signature=2d0440594acfe60b834e36f1bf7f9bfc46c28c753072d2fc9e9008b5ebed8625&X-Amz-SignedHeaders=host&x-id=GetObject",
-          "expiry_time": "2024-05-16T05:14:55.427Z"
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ef84be6d-c165-4611-8050-96907703167a/dc3ab2f7-66cb-4a5c-91bd-0c775b8e2aa5/%E5%B9%BD%E7%81%B5%E5%85%AC%E4%B8%BB.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240517%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240517T041728Z&X-Amz-Expires=3600&X-Amz-Signature=4f93a23772d1520771b57b44dca5e553ac49696137a9e98242b8560f053aae96&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2024-05-17T05:17:28.657Z"
         }
       },
       "icon": {
@@ -268,7 +332,7 @@
         ],
         "date": "2024-05-09 22:09:00",
         "status": "已发布",
-        "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ef84be6d-c165-4611-8050-96907703167a/dc3ab2f7-66cb-4a5c-91bd-0c775b8e2aa5/%E5%B9%BD%E7%81%B5%E5%85%AC%E4%B8%BB.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240516%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240516T041455Z&X-Amz-Expires=3600&X-Amz-Signature=2d0440594acfe60b834e36f1bf7f9bfc46c28c753072d2fc9e9008b5ebed8625&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ef84be6d-c165-4611-8050-96907703167a/dc3ab2f7-66cb-4a5c-91bd-0c775b8e2aa5/%E5%B9%BD%E7%81%B5%E5%85%AC%E4%B8%BB.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240517%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240517T041728Z&X-Amz-Expires=3600&X-Amz-Signature=4f93a23772d1520771b57b44dca5e553ac49696137a9e98242b8560f053aae96&X-Amz-SignedHeaders=host&x-id=GetObject",
         "URL": "",
         "description": "",
         "catalog": "",
