@@ -1,3 +1,14 @@
+---
+categories: 开发
+updated: '2024-07-29 11:48:00'
+tags:
+  - C#
+  - WPF
+date: '2024-07-26 08:00:00'
+cover: /images/a89cbd1df5e82421db4a402169fdee85.jpg
+description: ''
+title: WPF无边框可拖动窗体
+---
 
 下面主要记录下创建无边框窗体，并且可以拖动。这种窗体主要用于弹出小窗体时。
 
