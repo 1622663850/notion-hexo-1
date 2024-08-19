@@ -215,9 +215,70 @@
       "realName": "C# Solidworks二次开发：创建距离配合以及移动组件API详解",
       "relativePath": "/C# Solidworks二次开发：创建距离配合以及移动组件API详解.md",
       "docPath": "./source/_posts"
+    },
+    {
+      "id": "a9d654c0-f5b5-472d-9ae7-6253562610a1",
+      "doc_id": "a9d654c0-f5b5-472d-9ae7-6253562610a1",
+      "updated": 1724026200000,
+      "properties": {
+        "categories": "开发",
+        "updated": "2024-08-19 08:10:00",
+        "tags": [
+          "C#",
+          "Solidworks二次开发"
+        ],
+        "date": "2024-08-19 08:07:00",
+        "cover": "/images/16dc4ba5af3125d58e684cbad3c8e1bb.jpg",
+        "description": "",
+        "title": "C# SolidWorks 二次开发 API --- 把零件中的坐标点转换到总装配中"
+      },
+      "realName": "C# SolidWorks 二次开发 API --- 把零件中的坐标点转换到总装配中",
+      "relativePath": "/C# SolidWorks 二次开发 API --- 把零件中的坐标点转换到总装配中.md",
+      "docPath": "./source/_posts"
     }
   ],
   "catalog": [
+    {
+      "object": "page",
+      "id": "a9d654c0-f5b5-472d-9ae7-6253562610a1",
+      "created_time": "2024-08-19T00:07:00.000Z",
+      "last_edited_time": "2024-08-19T00:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2463cab2-5469-4816-b1d3-ebb225cfa063"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2463cab2-5469-4816-b1d3-ebb225cfa063"
+      },
+      "cover": {
+        "type": "external",
+        "external": {
+          "url": "https://www.notion.so/images/page-cover/met_william_turner_1835.jpg"
+        }
+      },
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "beafb826-deaa-4b6c-b683-be8d872cea09"
+      },
+      "archived": false,
+      "in_trash": false,
+      "properties": {
+        "categories": "开发",
+        "updated": "2024-08-19 08:10:00",
+        "tags": [
+          "C#",
+          "Solidworks二次开发"
+        ],
+        "date": "2024-08-19 08:07:00",
+        "cover": "/images/16dc4ba5af3125d58e684cbad3c8e1bb.jpg",
+        "description": "",
+        "title": "C# SolidWorks 二次开发 API --- 把零件中的坐标点转换到总装配中"
+      },
+      "url": "https://www.notion.so/C-SolidWorks-API-a9d654c0f5b5472d9ae76253562610a1",
+      "public_url": "https://chipped-shovel-069.notion.site/C-SolidWorks-API-a9d654c0f5b5472d9ae76253562610a1"
+    },
     {
       "object": "page",
       "id": "3e3558ee-76ef-4e5a-93c5-9a7112a88133",
@@ -247,13 +308,18 @@
       "properties": {
         "categories": "开发",
         "updated": "2024-08-06 08:27:00",
+        "urlname": "3e3558ee-76ef-4e5a-93c5-9a7112a88133",
+        "sort": "",
         "tags": [
           "C#",
           "Solidworks二次开发"
         ],
         "date": "2024-08-06 08:00:00",
-        "cover": "/images/fbfcbc0d1318ffec0aa374570746a68a.jpg",
+        "status": "已发布",
+        "cover": "https://www.notion.so/images/page-cover/nasa_new_york_city_grid.jpg",
+        "URL": "",
         "description": "",
+        "catalog": "",
         "title": "C# Solidworks二次开发：创建距离配合以及移动组件API详解"
       },
       "url": "https://www.notion.so/C-Solidworks-API-3e3558ee76ef4e5a93c59a7112a88133",
@@ -501,8 +567,8 @@
       "cover": {
         "type": "file",
         "file": {
-          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ef84be6d-c165-4611-8050-96907703167a/dc3ab2f7-66cb-4a5c-91bd-0c775b8e2aa5/%E5%B9%BD%E7%81%B5%E5%85%AC%E4%B8%BB.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240806%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240806T041919Z&X-Amz-Expires=3600&X-Amz-Signature=559cef4f6ca569c3d496dbbf8f7e2139166c4f438f1430dd6efec142b85f37c8&X-Amz-SignedHeaders=host&x-id=GetObject",
-          "expiry_time": "2024-08-06T05:19:19.563Z"
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ef84be6d-c165-4611-8050-96907703167a/dc3ab2f7-66cb-4a5c-91bd-0c775b8e2aa5/%E5%B9%BD%E7%81%B5%E5%85%AC%E4%B8%BB.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240819%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240819T041840Z&X-Amz-Expires=3600&X-Amz-Signature=d5100f65b8e502188ef6d4a20b98ecda505f87498ff9f74ba1d506ea18aa7a56&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2024-08-19T05:18:40.128Z"
         }
       },
       "icon": {
@@ -528,7 +594,7 @@
         ],
         "date": "2024-05-09 22:09:00",
         "status": "已发布",
-        "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ef84be6d-c165-4611-8050-96907703167a/dc3ab2f7-66cb-4a5c-91bd-0c775b8e2aa5/%E5%B9%BD%E7%81%B5%E5%85%AC%E4%B8%BB.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240806%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240806T041919Z&X-Amz-Expires=3600&X-Amz-Signature=559cef4f6ca569c3d496dbbf8f7e2139166c4f438f1430dd6efec142b85f37c8&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ef84be6d-c165-4611-8050-96907703167a/dc3ab2f7-66cb-4a5c-91bd-0c775b8e2aa5/%E5%B9%BD%E7%81%B5%E5%85%AC%E4%B8%BB.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240819%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240819T041840Z&X-Amz-Expires=3600&X-Amz-Signature=d5100f65b8e502188ef6d4a20b98ecda505f87498ff9f74ba1d506ea18aa7a56&X-Amz-SignedHeaders=host&x-id=GetObject",
         "URL": "",
         "description": "",
         "catalog": "",
