@@ -235,9 +235,63 @@
       "realName": "C# SolidWorks 二次开发 API --- 把零件中的坐标点转换到总装配中",
       "relativePath": "/C# SolidWorks 二次开发 API --- 把零件中的坐标点转换到总装配中.md",
       "docPath": "./source/_posts"
+    },
+    {
+      "id": "bf9c17b6-3ca9-4d97-b897-7f688c64e037",
+      "doc_id": "bf9c17b6-3ca9-4d97-b897-7f688c64e037",
+      "updated": 1725499560000,
+      "properties": {
+        "categories": "开发",
+        "updated": "2024-09-05 09:26:00",
+        "tags": [
+          "C#",
+          "WPF"
+        ],
+        "date": "2024-09-05 09:22:00",
+        "description": "",
+        "title": "wpf datagrid让列标题居中以及列内容居中"
+      },
+      "realName": "wpf datagrid让列标题居中以及列内容居中",
+      "relativePath": "/wpf datagrid让列标题居中以及列内容居中.md",
+      "docPath": "./source/_posts"
     }
   ],
   "catalog": [
+    {
+      "object": "page",
+      "id": "bf9c17b6-3ca9-4d97-b897-7f688c64e037",
+      "created_time": "2024-09-05T01:22:00.000Z",
+      "last_edited_time": "2024-09-05T01:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2463cab2-5469-4816-b1d3-ebb225cfa063"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2463cab2-5469-4816-b1d3-ebb225cfa063"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "beafb826-deaa-4b6c-b683-be8d872cea09"
+      },
+      "archived": false,
+      "in_trash": false,
+      "properties": {
+        "categories": "开发",
+        "updated": "2024-09-05 09:26:00",
+        "tags": [
+          "C#",
+          "WPF"
+        ],
+        "date": "2024-09-05 09:22:00",
+        "description": "",
+        "title": "wpf datagrid让列标题居中以及列内容居中"
+      },
+      "url": "https://www.notion.so/wpf-datagrid-bf9c17b63ca94d97b8977f688c64e037",
+      "public_url": "https://chipped-shovel-069.notion.site/wpf-datagrid-bf9c17b63ca94d97b8977f688c64e037"
+    },
     {
       "object": "page",
       "id": "a9d654c0-f5b5-472d-9ae7-6253562610a1",
@@ -267,13 +321,18 @@
       "properties": {
         "categories": "开发",
         "updated": "2024-08-19 08:10:00",
+        "urlname": "a9d654c0-f5b5-472d-9ae7-6253562610a1",
+        "sort": "",
         "tags": [
           "C#",
           "Solidworks二次开发"
         ],
         "date": "2024-08-19 08:07:00",
-        "cover": "/images/16dc4ba5af3125d58e684cbad3c8e1bb.jpg",
+        "status": "已发布",
+        "cover": "https://www.notion.so/images/page-cover/met_william_turner_1835.jpg",
+        "URL": "",
         "description": "",
+        "catalog": "",
         "title": "C# SolidWorks 二次开发 API --- 把零件中的坐标点转换到总装配中"
       },
       "url": "https://www.notion.so/C-SolidWorks-API-a9d654c0f5b5472d9ae76253562610a1",
@@ -567,8 +626,8 @@
       "cover": {
         "type": "file",
         "file": {
-          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ef84be6d-c165-4611-8050-96907703167a/dc3ab2f7-66cb-4a5c-91bd-0c775b8e2aa5/%E5%B9%BD%E7%81%B5%E5%85%AC%E4%B8%BB.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240819%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240819T041840Z&X-Amz-Expires=3600&X-Amz-Signature=d5100f65b8e502188ef6d4a20b98ecda505f87498ff9f74ba1d506ea18aa7a56&X-Amz-SignedHeaders=host&x-id=GetObject",
-          "expiry_time": "2024-08-19T05:18:40.128Z"
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ef84be6d-c165-4611-8050-96907703167a/dc3ab2f7-66cb-4a5c-91bd-0c775b8e2aa5/%E5%B9%BD%E7%81%B5%E5%85%AC%E4%B8%BB.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240905%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240905T041944Z&X-Amz-Expires=3600&X-Amz-Signature=a67f615bf13cdaa15859a89e1ad86c9d9b075f3a23b05f69c67866e78cb1a860&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2024-09-05T05:19:44.957Z"
         }
       },
       "icon": {
@@ -594,7 +653,7 @@
         ],
         "date": "2024-05-09 22:09:00",
         "status": "已发布",
-        "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ef84be6d-c165-4611-8050-96907703167a/dc3ab2f7-66cb-4a5c-91bd-0c775b8e2aa5/%E5%B9%BD%E7%81%B5%E5%85%AC%E4%B8%BB.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240819%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240819T041840Z&X-Amz-Expires=3600&X-Amz-Signature=d5100f65b8e502188ef6d4a20b98ecda505f87498ff9f74ba1d506ea18aa7a56&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ef84be6d-c165-4611-8050-96907703167a/dc3ab2f7-66cb-4a5c-91bd-0c775b8e2aa5/%E5%B9%BD%E7%81%B5%E5%85%AC%E4%B8%BB.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240905%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240905T041944Z&X-Amz-Expires=3600&X-Amz-Signature=a67f615bf13cdaa15859a89e1ad86c9d9b075f3a23b05f69c67866e78cb1a860&X-Amz-SignedHeaders=host&x-id=GetObject",
         "URL": "",
         "description": "",
         "catalog": "",
