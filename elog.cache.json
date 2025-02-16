@@ -199,10 +199,10 @@
     {
       "id": "3e3558ee-76ef-4e5a-93c5-9a7112a88133",
       "doc_id": "3e3558ee-76ef-4e5a-93c5-9a7112a88133",
-      "updated": 1722904020000,
+      "updated": 1739599560000,
       "properties": {
         "categories": "开发",
-        "updated": "2024-08-06 08:27:00",
+        "updated": "2025-02-15 14:06:00",
         "tags": [
           "C#",
           "Solidworks二次开发"
@@ -254,9 +254,68 @@
       "realName": "wpf datagrid让列标题居中以及列内容居中",
       "relativePath": "/wpf datagrid让列标题居中以及列内容居中.md",
       "docPath": "./source/_posts"
+    },
+    {
+      "id": "19bca4fa-867a-804f-a68e-d56d6d7084cd",
+      "doc_id": "19bca4fa-867a-804f-a68e-d56d6d7084cd",
+      "updated": 1739599800000,
+      "properties": {
+        "categories": "",
+        "updated": "2025-02-15 14:10:00",
+        "tags": [
+          "docker"
+        ],
+        "date": "2025-02-15 08:00:00",
+        "cover": "/images/dfd92b3f8b2ceee7683f60579ba67e16.jpg",
+        "description": "",
+        "title": "安装本地音乐套件music-tags-web+music+navidrome"
+      },
+      "realName": "安装本地音乐套件music-tags-web+music+navidrome",
+      "relativePath": "/安装本地音乐套件music-tags-web+music+navidrome.md",
+      "docPath": "./source/_posts"
     }
   ],
   "catalog": [
+    {
+      "object": "page",
+      "id": "19bca4fa-867a-804f-a68e-d56d6d7084cd",
+      "created_time": "2025-02-15T06:05:00.000Z",
+      "last_edited_time": "2025-02-15T06:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "2463cab2-5469-4816-b1d3-ebb225cfa063"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "2463cab2-5469-4816-b1d3-ebb225cfa063"
+      },
+      "cover": {
+        "type": "external",
+        "external": {
+          "url": "https://www.notion.so/images/page-cover/webb4.jpg"
+        }
+      },
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "beafb826-deaa-4b6c-b683-be8d872cea09"
+      },
+      "archived": false,
+      "in_trash": false,
+      "properties": {
+        "categories": "",
+        "updated": "2025-02-15 14:10:00",
+        "tags": [
+          "docker"
+        ],
+        "date": "2025-02-15 08:00:00",
+        "cover": "/images/dfd92b3f8b2ceee7683f60579ba67e16.jpg",
+        "description": "",
+        "title": "安装本地音乐套件music-tags-web+music+navidrome"
+      },
+      "url": "https://www.notion.so/music-tags-web-music-navidrome-19bca4fa867a804fa68ed56d6d7084cd",
+      "public_url": "https://chipped-shovel-069.notion.site/music-tags-web-music-navidrome-19bca4fa867a804fa68ed56d6d7084cd"
+    },
     {
       "object": "page",
       "id": "bf9c17b6-3ca9-4d97-b897-7f688c64e037",
@@ -327,13 +386,18 @@
       "properties": {
         "categories": "开发",
         "updated": "2025-02-13 08:11:00",
+        "urlname": "a9d654c0-f5b5-472d-9ae7-6253562610a1",
+        "sort": "",
         "tags": [
           "C#",
           "Solidworks二次开发"
         ],
         "date": "2024-08-19 08:07:00",
-        "cover": "/images/16dc4ba5af3125d58e684cbad3c8e1bb.jpg",
+        "status": "已发布",
+        "cover": "https://www.notion.so/images/page-cover/met_william_turner_1835.jpg",
+        "URL": "",
         "description": "",
+        "catalog": "",
         "title": "C# SolidWorks 二次开发 API --- 把零件中的坐标点转换到总装配中"
       },
       "url": "https://www.notion.so/C-SolidWorks-API-a9d654c0f5b5472d9ae76253562610a1",
@@ -343,7 +407,7 @@
       "object": "page",
       "id": "3e3558ee-76ef-4e5a-93c5-9a7112a88133",
       "created_time": "2024-08-06T00:22:00.000Z",
-      "last_edited_time": "2024-08-06T00:27:00.000Z",
+      "last_edited_time": "2025-02-15T06:06:00.000Z",
       "created_by": {
         "object": "user",
         "id": "2463cab2-5469-4816-b1d3-ebb225cfa063"
@@ -367,19 +431,14 @@
       "in_trash": false,
       "properties": {
         "categories": "开发",
-        "updated": "2024-08-06 08:27:00",
-        "urlname": "3e3558ee-76ef-4e5a-93c5-9a7112a88133",
-        "sort": "",
+        "updated": "2025-02-15 14:06:00",
         "tags": [
           "C#",
           "Solidworks二次开发"
         ],
         "date": "2024-08-06 08:00:00",
-        "status": "已发布",
-        "cover": "https://www.notion.so/images/page-cover/nasa_new_york_city_grid.jpg",
-        "URL": "",
+        "cover": "/images/fbfcbc0d1318ffec0aa374570746a68a.jpg",
         "description": "",
-        "catalog": "",
         "title": "C# Solidworks二次开发：创建距离配合以及移动组件API详解"
       },
       "url": "https://www.notion.so/C-Solidworks-API-3e3558ee76ef4e5a93c59a7112a88133",
@@ -627,8 +686,8 @@
       "cover": {
         "type": "file",
         "file": {
-          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ef84be6d-c165-4611-8050-96907703167a/dc3ab2f7-66cb-4a5c-91bd-0c775b8e2aa5/%E5%B9%BD%E7%81%B5%E5%85%AC%E4%B8%BB.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TGU7JWDF%2F20250213%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250213T042048Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCIBcp%2F7wo6nDticHLF2VBBhOxNYqpbvphTHcEmJZYsTgIhAJ6j%2BeGPwDrM%2Bea2nzHGWbgtZVeOF2sZjrceSd5JT40RKogECPv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgzeSgCi1sXIJmCRq8wq3AOtNqj1wwTBUYlOEv5Ck8elJNgTvptgxMsKdDOvDqFzXtxmTfUl%2BHIJYvfHdQhw1fIGY7yPw%2BkV133SQLJ6xyMEgi%2BThIG3stlQjwmsQqcMSb6GgF7%2FSScv1%2FeADTJnANnQlqwJyL94mfxZaPSk3Hsri75gKcivc9ATk%2F3K8E97XBjUHF%2BcUW9Oe6w2JnAed%2Fgzola70BphEt4bCVSz%2FWdvTQDb1R1u1tAo81K3j4Hqzanhf9B2dUApOC4722xMQnlb4vrEvmxtMEEbbD%2Fq692gNF5OiFux3icvH%2FVytTo1U0tD8r6fsCRpkOkoRNCdEPJOD9qASfsgM2ggzSW2304FiPJlITMYkWiz51A7a2qriO1f%2BXCYWSIp9PPsd7s172QkSPk1hG2%2BHcj6rZRiUz7jWXfX9kElsnEqq3jFjSxxMEfTZb9m5ysWPdc5VpRyn33IZ8JR5qw0viv%2FsD8ryuoKWeI26clQ0xKqcqVMmFa1swcsoR6PHenlFU19%2BJfbBD8VbHV%2FARyP3oD8av6hfRkB3OcKyqPetGE6IVVhzsvJUnILWBavMrzO3eguKgAHVRzqQE5ml%2FuaiztODaPqYeeJvf2WFPJQvWW5%2Fa5mBsCfYtiCR%2F5tmlgRQ2il%2FDDYmLW9BjqkAWW62aph7aRvlR0%2BYVx%2Fhs22kUVrtozHNuBmLHJ9NmGpoHEUpfscDvD1ivCeO3AwAT%2FPAM6psPHr%2BtP8USyU3mPiFy1hBmocWUMr8bhLP3nX%2BEWhSvv0cx4qWKQM%2B8zcgvrUbH%2B3I%2BymWoPNi0ndhQvHw6tqNx3wket7R0Lu9%2Fw3s05IhvrryvYU83JH%2BIzgrMhn4u2IWp554LYzV3BdvgvP7mY1&X-Amz-Signature=f8fe5d95f2c36b94a3e605f679d6e477447041346dec7777d5ef2b3696bf7714&X-Amz-SignedHeaders=host&x-id=GetObject",
-          "expiry_time": "2025-02-13T05:20:48.236Z"
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ef84be6d-c165-4611-8050-96907703167a/dc3ab2f7-66cb-4a5c-91bd-0c775b8e2aa5/%E5%B9%BD%E7%81%B5%E5%85%AC%E4%B8%BB.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4662G3K3K33%2F20250216%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250216T041942Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECwaCXVzLXdlc3QtMiJHMEUCIFhqmtG4PdqugMTXS9Br6njbW39Ne%2F%2FIQBjbqe1elb4HAiEAsKv6CAq7BSiCFURYmyld2QcSGlrQ4sVXfgs2JiPKQ%2F4q%2FwMIVRAAGgw2Mzc0MjMxODM4MDUiDLhL4qkFWqsV2hSDjircA4aK%2FlLstW7Gc0sI1es9a1zThocXGNnpIwcWe7bC0sZu0VB90CL0U%2Bgu%2F9MPRAibjpbhzkaWlXH3D4kkpYTzvUEeKfuUpixlu5llZsfJw25qeGI0GMg9LJ%2F1VEDJN1WA%2BI4GvAo0uCtxUnS3GAod4PrWqxmngf6hlZi6UePHKdh1F1QQGeA69s2K3lpjBhgYNYxToOsXyc5OmV7ZNCIqQNRLwRrf1uWRVlxKB3j7tKZqLNbm1qd3ekg15xaq3CHpKzMLligS06ymmzfEk3cUNHQz0q0yelCFsBafbVifaxm9ZpIbVGZRdYXJYiw4jteGL7hpvglw19nOKt4B668tLFmLw1x%2BA%2B%2FotNZzJ9FsjWXz29nACxXZc9h3C6UkVdg3UfIzWkogHMRDTWB8Jds3YD0KP8d6tHFx%2B1Pmo0RKaqwUryqIk%2BRUSo6UhZXicfxSOHRKZw9RtSUyz5R6jIqR1ELMg2g1pMsqV2v9fIRhI8YAivGuw%2FnJylprsIHEM%2BmNk6L6hF%2BUzMxl89rLewAQuLoCCkgBF14wzSMxQHZAQe46t4MYWuJxItbYjsWhCIvvYBL415QXpr%2FNmSUELXAZhixDci4OjC523wso%2Fw3PNMNBH0Dn8oVFo4Sl8xpHMJfExb0GOqUBc2MxrI8zQyG7TV5ssKcKx9aPG7ei5Ia2i84kQdO9p6WX6pIbLJComLR6VVpeshkYUBrjItZdkyGERFyX1tPV7kxGBVQaruy%2BEA7VrHn3P7w4dTVkgFqQm%2BYUpk%2BmPhubt6stehEDK9fY%2FyYMMGUr0LcX79rZ7c%2BrTfsWTyltYqBHTVmDFzGbddDf7TAGz5STTrzEtFgDnQuW8JuBy6VlSM%2B2xCD1&X-Amz-Signature=7668bcb64bf99b1421c1de63c33eb3f1a2f34e79341bae8f59695ce5fd08b3c2&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2025-02-16T05:19:42.205Z"
         }
       },
       "icon": {
@@ -654,7 +713,7 @@
         ],
         "date": "2024-05-09 22:09:00",
         "status": "已发布",
-        "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ef84be6d-c165-4611-8050-96907703167a/dc3ab2f7-66cb-4a5c-91bd-0c775b8e2aa5/%E5%B9%BD%E7%81%B5%E5%85%AC%E4%B8%BB.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TGU7JWDF%2F20250213%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250213T042048Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCIBcp%2F7wo6nDticHLF2VBBhOxNYqpbvphTHcEmJZYsTgIhAJ6j%2BeGPwDrM%2Bea2nzHGWbgtZVeOF2sZjrceSd5JT40RKogECPv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgzeSgCi1sXIJmCRq8wq3AOtNqj1wwTBUYlOEv5Ck8elJNgTvptgxMsKdDOvDqFzXtxmTfUl%2BHIJYvfHdQhw1fIGY7yPw%2BkV133SQLJ6xyMEgi%2BThIG3stlQjwmsQqcMSb6GgF7%2FSScv1%2FeADTJnANnQlqwJyL94mfxZaPSk3Hsri75gKcivc9ATk%2F3K8E97XBjUHF%2BcUW9Oe6w2JnAed%2Fgzola70BphEt4bCVSz%2FWdvTQDb1R1u1tAo81K3j4Hqzanhf9B2dUApOC4722xMQnlb4vrEvmxtMEEbbD%2Fq692gNF5OiFux3icvH%2FVytTo1U0tD8r6fsCRpkOkoRNCdEPJOD9qASfsgM2ggzSW2304FiPJlITMYkWiz51A7a2qriO1f%2BXCYWSIp9PPsd7s172QkSPk1hG2%2BHcj6rZRiUz7jWXfX9kElsnEqq3jFjSxxMEfTZb9m5ysWPdc5VpRyn33IZ8JR5qw0viv%2FsD8ryuoKWeI26clQ0xKqcqVMmFa1swcsoR6PHenlFU19%2BJfbBD8VbHV%2FARyP3oD8av6hfRkB3OcKyqPetGE6IVVhzsvJUnILWBavMrzO3eguKgAHVRzqQE5ml%2FuaiztODaPqYeeJvf2WFPJQvWW5%2Fa5mBsCfYtiCR%2F5tmlgRQ2il%2FDDYmLW9BjqkAWW62aph7aRvlR0%2BYVx%2Fhs22kUVrtozHNuBmLHJ9NmGpoHEUpfscDvD1ivCeO3AwAT%2FPAM6psPHr%2BtP8USyU3mPiFy1hBmocWUMr8bhLP3nX%2BEWhSvv0cx4qWKQM%2B8zcgvrUbH%2B3I%2BymWoPNi0ndhQvHw6tqNx3wket7R0Lu9%2Fw3s05IhvrryvYU83JH%2BIzgrMhn4u2IWp554LYzV3BdvgvP7mY1&X-Amz-Signature=f8fe5d95f2c36b94a3e605f679d6e477447041346dec7777d5ef2b3696bf7714&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ef84be6d-c165-4611-8050-96907703167a/dc3ab2f7-66cb-4a5c-91bd-0c775b8e2aa5/%E5%B9%BD%E7%81%B5%E5%85%AC%E4%B8%BB.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4662G3K3K33%2F20250216%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250216T041942Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECwaCXVzLXdlc3QtMiJHMEUCIFhqmtG4PdqugMTXS9Br6njbW39Ne%2F%2FIQBjbqe1elb4HAiEAsKv6CAq7BSiCFURYmyld2QcSGlrQ4sVXfgs2JiPKQ%2F4q%2FwMIVRAAGgw2Mzc0MjMxODM4MDUiDLhL4qkFWqsV2hSDjircA4aK%2FlLstW7Gc0sI1es9a1zThocXGNnpIwcWe7bC0sZu0VB90CL0U%2Bgu%2F9MPRAibjpbhzkaWlXH3D4kkpYTzvUEeKfuUpixlu5llZsfJw25qeGI0GMg9LJ%2F1VEDJN1WA%2BI4GvAo0uCtxUnS3GAod4PrWqxmngf6hlZi6UePHKdh1F1QQGeA69s2K3lpjBhgYNYxToOsXyc5OmV7ZNCIqQNRLwRrf1uWRVlxKB3j7tKZqLNbm1qd3ekg15xaq3CHpKzMLligS06ymmzfEk3cUNHQz0q0yelCFsBafbVifaxm9ZpIbVGZRdYXJYiw4jteGL7hpvglw19nOKt4B668tLFmLw1x%2BA%2B%2FotNZzJ9FsjWXz29nACxXZc9h3C6UkVdg3UfIzWkogHMRDTWB8Jds3YD0KP8d6tHFx%2B1Pmo0RKaqwUryqIk%2BRUSo6UhZXicfxSOHRKZw9RtSUyz5R6jIqR1ELMg2g1pMsqV2v9fIRhI8YAivGuw%2FnJylprsIHEM%2BmNk6L6hF%2BUzMxl89rLewAQuLoCCkgBF14wzSMxQHZAQe46t4MYWuJxItbYjsWhCIvvYBL415QXpr%2FNmSUELXAZhixDci4OjC523wso%2Fw3PNMNBH0Dn8oVFo4Sl8xpHMJfExb0GOqUBc2MxrI8zQyG7TV5ssKcKx9aPG7ei5Ia2i84kQdO9p6WX6pIbLJComLR6VVpeshkYUBrjItZdkyGERFyX1tPV7kxGBVQaruy%2BEA7VrHn3P7w4dTVkgFqQm%2BYUpk%2BmPhubt6stehEDK9fY%2FyYMMGUr0LcX79rZ7c%2BrTfsWTyltYqBHTVmDFzGbddDf7TAGz5STTrzEtFgDnQuW8JuBy6VlSM%2B2xCD1&X-Amz-Signature=7668bcb64bf99b1421c1de63c33eb3f1a2f34e79341bae8f59695ce5fd08b3c2&X-Amz-SignedHeaders=host&x-id=GetObject",
         "URL": "",
         "description": "",
         "catalog": "",
